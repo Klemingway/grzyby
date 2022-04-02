@@ -1,0 +1,1 @@
+Plik opisujący nasz projeket
